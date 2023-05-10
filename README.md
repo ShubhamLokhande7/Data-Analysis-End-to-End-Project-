@@ -1,5 +1,36 @@
 # Data-Analysis-End-to-End-Project-
 
+- hotel: 
+The datasets contains the booking information of two hotel. One of the hotels is a resort hotel and the other is a city hotel.
+
+City Hotel
+66%
+Resort Hotel
+34%
+- is_canceled: 
+Value indicating if the booking was canceled (1) or not (0).
+
+- lead_time-
+Number of days that elapsed between the entering date of the booking into the PMS and the arrival date.
+
+- arrival_date_year-
+Year of arrival date
+
+- arrival_date_month-
+Month of arrival date with 12 categories: “January” to “December”
+
+- arrival_date_week_number-
+Week number of the arrival date
+
+- arrival_date_day_of_month-
+Day of the month of the arrival date
+
+- stays_in_week_nights-
+Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel BO and BL/Calculated by counting the number of week nights
+
+- adults-
+Number of adults
+
 # Data Analysis Project Steps:
 1. Create a Problem Statement.
 2. Identify the data you want to analyze.
